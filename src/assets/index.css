@@ -173,6 +173,9 @@ ul li {
 
   input {
     font-size: 20px;
+    width: 80%;
+    margin-right: 8px;
+   
   }
   
   form input {
